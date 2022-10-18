@@ -17,5 +17,7 @@ app.get('/', function(req, res) {
 
 // express 서버를 실행할 때 필요한 포트 정의 및 실행 시 callback 함수를 받습니다
 app.listen(port, function() {
-    console.log('start! express server');
+    console.log('============================');
+    console.log('=== Start Node.js Was... ===')
+    console.log('============================');
 })
