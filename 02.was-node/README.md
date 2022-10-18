@@ -20,7 +20,17 @@
    npm install express --save
    ```
 
+   ![](../image/node/install-express.png)
+
+3. app.js 생성
+
+   ```javascript
    
+   ```
+
+   
+
+
 
 
 
@@ -28,7 +38,10 @@
 
 #### 2. Inital Nose.js server
 
-
+- **node_modules**
+- package.json
+- package-lock.json
+- app.js
 
 > 참조
 >
