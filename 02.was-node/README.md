@@ -2,7 +2,11 @@
 
 > **목록**
 
+> V8
+>
+> discription
 
+> 
 
 ---
 
@@ -57,5 +61,7 @@
 
 > 참조
 >
-> 
+> https://tinyurl.com/276n97b7
+>
+> https://github.com/santiq/bulletproof-nodejs
 
